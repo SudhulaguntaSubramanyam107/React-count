@@ -1,0 +1,14 @@
+
+.heading{
+  background-color:blue;
+  color:white
+} 
+.para{
+  font-size:20px;
+  color:blue
+} 
+.bg-container {
+  background-image:url("https://img.freepik.com/free-vector/indian-festival-raksha-bandhan-purple-background-with-3d-podium_1017-38972.jpg?w=740&t=st=1701864602~exp=1701865202~hmac=5f86c9b5c7551e220");
+  height:100vh; 
+  background-size:cover;
+}
